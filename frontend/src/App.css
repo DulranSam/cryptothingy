@@ -6,6 +6,11 @@
   height: 100vh;
 }
 
+img{
+  height: 120%;
+  width: 120%;
+}
+
 .content {
   position: absolute;
   display: flex;
